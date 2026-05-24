@@ -18,7 +18,7 @@ Ce projet est une application Android développée entièrement en **Java** dém
      - **Fragment List (FragmentList) :** Un `ListFragment` affichant une liste simple de 10 éléments (Item 1 à Item 10).
 
 ---
-## Structure du Projet
+## Demonstration
 
 https://youtube.com/shorts/F24Bq51bVeE?feature=share
 
