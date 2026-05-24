@@ -4,7 +4,7 @@ Ce projet est une application Android développée entièrement en **Java** dém
 
 ---
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 
 1. **Navigation Drawer (Menu Latéral) :**
    - Intègre un menu coulissant avec un en-tête d'application personnalisé (`nav_header_main.xml`).
@@ -18,8 +18,12 @@ Ce projet est une application Android développée entièrement en **Java** dém
      - **Fragment List (FragmentList) :** Un `ListFragment` affichant une liste simple de 10 éléments (Item 1 à Item 10).
 
 ---
+## Structure du Projet
 
-## 📁 Structure du Projet
+https://youtube.com/shorts/F24Bq51bVeE?feature=share
+
+---
+## Structure du Projet
 
 Les fichiers principaux créés et modifiés sont :
 
@@ -32,7 +36,7 @@ Les fichiers principaux créés et modifiés sont :
 
 ---
 
-## 🛠️ Instructions d'Installation et d'Exécution
+## Instructions d'Installation et d'Exécution
 
 ### Prérequis
 - **Android Studio** (Koala ou plus récent).
